@@ -14,6 +14,12 @@ The goal of this challenge was to build a responsive news homepage that closely 
 
 Visitors can navigate the homepage on different screen sizes and interact with the navigation menu.
 
+## Links
+
+- Live site: [https://yasmin3802.github.io/news-homepage/](https://yasmin3802.github.io/news-homepage/)
+- Repository: [https://github.com/yasmin3802/news-homepage](https://github.com/yasmin3802/news-homepage)
+
+
 ## Built with
 
 - Semantic HTML5
